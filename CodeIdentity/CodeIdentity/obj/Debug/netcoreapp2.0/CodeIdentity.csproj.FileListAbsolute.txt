@@ -1,0 +1,11 @@
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\bin\Debug\netcoreapp2.0\CodeIdentity.deps.json
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\bin\Debug\netcoreapp2.0\CodeIdentity.runtimeconfig.json
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\bin\Debug\netcoreapp2.0\CodeIdentity.runtimeconfig.dev.json
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\bin\Debug\netcoreapp2.0\CodeIdentity.dll
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\bin\Debug\netcoreapp2.0\CodeIdentity.pdb
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\obj\Debug\netcoreapp2.0\CodeIdentity.csprojResolveAssemblyReference.cache
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\obj\Debug\netcoreapp2.0\CodeIdentity.csproj.CoreCompileInputs.cache
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\obj\Debug\netcoreapp2.0\CodeIdentity.AssemblyInfoInputs.cache
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\obj\Debug\netcoreapp2.0\CodeIdentity.AssemblyInfo.cs
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\obj\Debug\netcoreapp2.0\CodeIdentity.dll
+E:\Work\Git\CoreIdentity\CodeIdentity\CodeIdentity\obj\Debug\netcoreapp2.0\CodeIdentity.pdb
