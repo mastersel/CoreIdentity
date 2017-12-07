@@ -12543,24 +12543,24 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\Work\\Git\\CoreIdentity\\CodeIdentity\\CodeIdentity\\CodeIdentity.csproj",
+      "projectUniqueName": "d:\\Web\\Git\\CoreIdentity\\CodeIdentity\\CodeIdentity\\CodeIdentity.csproj",
       "projectName": "CodeIdentity",
-      "projectPath": "E:\\Work\\Git\\CoreIdentity\\CodeIdentity\\CodeIdentity\\CodeIdentity.csproj",
+      "projectPath": "d:\\Web\\Git\\CoreIdentity\\CodeIdentity\\CodeIdentity\\CodeIdentity.csproj",
       "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-      "outputPath": "E:\\Work\\Git\\CoreIdentity\\CodeIdentity\\CodeIdentity\\obj\\",
+      "outputPath": "d:\\Web\\Git\\CoreIdentity\\CodeIdentity\\CodeIdentity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
